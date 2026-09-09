@@ -1,4 +1,8 @@
-# Hi, I'm Eldhose 👋
+<p align="center">
+  <img src="Photo.jpg" width="220" alt="Eldhose">
+</p>
+
+<h1 align="center">Hi, I'm Eldhose 👋</h1>
 
 Civil engineer by background, project manager by experience, and now exploring the world of data and analytics.
 
